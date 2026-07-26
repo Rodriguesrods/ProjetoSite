@@ -211,9 +211,9 @@ function Home() {
               Trabalhos selecionados / 
             </p>
             <h2 className="mt-6 font-display text-5xl font-light leading-[0.95] tracking-[-0.03em] md:text-8xl">
-              Uma <em className="italic text-gradient-ocean">pequenaㅤ</em>
+              Uma <em className="italic text-gradient-ocean">pequena </em>
               <br />
-              seleção.
+              seleção
             </h2>
           </div>
           <div className="md:col-span-4 md:text-right">
