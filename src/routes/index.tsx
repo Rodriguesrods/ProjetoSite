@@ -211,7 +211,7 @@ function Home() {
               Trabalhos selecionados / 
             </p>
             <h2 className="mt-6 font-display text-5xl font-light leading-[0.95] tracking-[-0.03em] md:text-8xl">
-              Uma <em className="italic text-gradient-ocean">pequena</em>
+              Uma <em className="italic text-gradient-ocean">pequenaㅤ</em>
               <br />
               seleção.
             </h2>
@@ -280,7 +280,7 @@ function Home() {
         <div className="relative mx-auto max-w-[1400px] px-6 md:px-10">
           <Reveal>
             <p className="mx-auto max-w-[22ch] text-center font-display text-4xl font-light italic leading-[1.05] tracking-[-0.02em] md:text-7xl">
-              &ldquo;Editar é <span className="text-gradient-ocean">mais</span> importante que produzir.&rdquo;
+              &ldquo;Editar é <span className="text-gradient-ocean">mais </span>importante que produzir.&rdquo;
             </p>
             <p className="mt-10 text-center font-mono text-[11px] uppercase tracking-[0.35em] text-muted-foreground">
               — princípio de trabalho, nº 03

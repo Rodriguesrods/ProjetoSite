@@ -78,7 +78,7 @@ export const projects: Project[] = [
     year: "2024",
     role: "Full Stack Lead",
     cover: project3,
-    discipline: "Produto digital · Saúde",
+    discipline: "Produto digital",
     context:
       "Uma clínica com oito especialidades operava agenda em planilhas e prontuário em papel. A recepção era o gargalo de toda a operação.",
     problem:

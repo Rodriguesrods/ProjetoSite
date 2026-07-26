@@ -11,7 +11,7 @@ export function SiteFooter() {
           Rodrigues.dev — encerramento
         </p>
         <p className="mt-8 max-w-[18ch] font-display text-5xl leading-[0.95] tracking-tight md:max-w-none md:text-[clamp(3rem,10vw,9rem)]">
-          Vamos construir algo que <em className="italic text-gradient-ocean">sobreviva</em> às tendências
+          Vamos construir algo que <em className="italic text-gradient-ocean">sobreviva </em>às tendências
         </p>
         <Link
           to="/contato"
