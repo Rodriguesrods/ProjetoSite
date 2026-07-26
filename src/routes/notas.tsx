@@ -5,14 +5,14 @@ export const Route = createFileRoute("/notas")({
   head: () => ({
     meta: [
       { title: "Notas — Rodrigues.dev" },
-      { name: "description", content: "Pequenos pensamentos sobre design, desenvolvimento, tecnologia e o ofício de fazer produto." },
+      { name: "description", content: "Pequenos pensamentos sobre design, desenvolvimento, tecnologia e o ofício de fazer produto" },
       { property: "og:title", content: "Notas — Rodrigues.dev" },
-      { property: "og:description", content: "Pequenos pensamentos sobre design, desenvolvimento e tecnologia." },
+      { property: "og:description", content: "Pequenos pensamentos sobre design, desenvolvimento e tecnologia" },
     ],
   }),
   component: Notas,
 });
-
+/*
 const notas = [
   {
     date: "abr · 2026",
@@ -44,7 +44,7 @@ const notas = [
     title: "A microinteração invisível",
     body: "Se o usuário percebe a animação, ela é ruído. Se ele sente que algo está certo sem saber por quê — aí ela virou linguagem.",
   },
-];
+]; */
 
 function Notas() {
   return (
@@ -80,4 +80,4 @@ function Notas() {
       </ol>
     </div>
   );
-}
+} 
