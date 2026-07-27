@@ -81,7 +81,7 @@ export function SiteFooter() {
       <div className="mx-auto max-w-[1400px] px-6 pb-10 pt-6 md:px-10">
         <div className="flex flex-col items-start justify-between gap-3 text-xs text-muted-foreground sm:flex-row sm:items-center">
           <p>© {year} Rodrigues.dev — feito à mão, sem pressa.</p>
-          <p className="font-mono">v1.0 · desde 20226</p>
+          <p className="font-mono">v1.0 · desde 2026</p>
         </div>
       </div>
     </footer>

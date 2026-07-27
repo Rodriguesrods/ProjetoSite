@@ -48,7 +48,7 @@ function Home() {
       <section className="relative min-h-[92vh]">
         {/* label vertical no canto */}
         <div className="pointer-events-none absolute left-4 top-40 hidden md:block">
-          <span className="vertical-label text-muted-foreground">Est. 2024 — Alcobaça · Bahia</span>
+          <span className="vertical-label text-muted-foreground">Est. 2026 — Alcobaça · Bahia</span>
         </div>
         {/* coordenadas discretas */}
         <div className="pointer-events-none absolute right-6 top-32 hidden font-mono text-[10px] uppercase tracking-[0.3em] text-muted-foreground md:block md:right-10">
